@@ -48,5 +48,9 @@ View Details  <br>
 Make a Booking  <br>
 Cancel a Booking  <br>
 Receive Confirmation  <br>
-<img width="525" height="649" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/745e04a0-15c5-456b-9d2a-dff7ed90bdec" />
-alx-booking-uc.png
+<h2>Acceptance Criteria</h2>  
+Acceptance criteria are crucial in requirement analysis because they define the specific conditions that a software feature must meet to be considered complete and acceptable to stakeholders. <br>
+Criteria 1: A successful payment must be processed. <br>
+Given a user has a valid booking in their cart, <br>
+When the user enters valid credit card information and clicks "Pay Now", <br>
+Then the payment gateway must approve the transaction, and the system must mark the booking as "Paid." <br>
