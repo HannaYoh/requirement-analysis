@@ -14,3 +14,9 @@ Improved Communication <br>
 The process creates a single source of truth for all stakeholders. The Software Requirements Specification (SRS) document serves as a common language, ensuring everyone from developers to clients has the same understanding of project goals, thus reducing misunderstandings. <br>
 Ensuring User Satisfaction <br>
 By involving end-users and other stakeholders early, requirement analysis guarantees the final product addresses their actual needs. This user-centric approach ensures the software is not just functional but also useful and intuitive, leading to a more successful outcome. <br>
+<h2>Key Activities of Requirement Analysis</h2>  
+- Requirement Gathering: This is the initial, broad activity of identifying all potential sources and stakeholders for a project's requirements. It focuses on understanding the general purpose and scope to ensure no key groups are missed. <br>
+- Requirement Elicitation: A more specific process of drawing out detailed requirements from stakeholders. It uses structured techniques like interviews, workshops, surveys, and observation to get a clear and complete picture of what is needed. <br>
+- Requirement Analysis and Modeling: During this stage, collected requirements are examined for completeness, consistency, and feasibility. Any conflicts or ambiguities are resolved. Modeling uses visual aids like flowcharts and use case diagrams to illustrate how the system will work. <br>
+- Requirement Documentation: The formal process of writing down all finalized requirements in a Software Requirements Specification (SRS). This document serves as the official agreement, detailing both functional and non-functional requirements. <br>
+- Requirement Validation: The final step to ensure the documented requirements are correct and meet the customer's needs before development begins. It involves reviews, inspections, and prototypes to confirm the team is building the right product. <br>
