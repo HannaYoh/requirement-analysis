@@ -7,3 +7,10 @@ Elicitation: This is the initial stage where requirements are gathered from all 
 Analysis and Negotiation: Once collected, the requirements are analyzed for consistency, completeness, and feasibility. This step often involves negotiation to resolve conflicts between stakeholders' needs, prioritize requirements, and identify any missing information. The goal is to produce a clear, unambiguous set of requirements. <br>
 Documentation: All finalized requirements are formally documented in a Software Requirements Specification (SRS). This document serves as the official record of what the software will do. It typically includes functional requirements and non-functional requirements. <br>
 Validation: The documented requirements are reviewed and validated with stakeholders to ensure they accurately reflect their needs and are technically feasible. This step helps catch errors and misunderstandings early, preventing costly rework later in the project. <br>
+<h2>Why is Requirement Analysis Important?</h2>  
+Risk Mitigation <br>
+Requirement analysis acts as a proactive measure against project failure. By defining all needs upfront, it prevents scope creep—where project boundaries expand, leading to budget overruns and delays. <br>
+Improved Communication <br>
+The process creates a single source of truth for all stakeholders. The Software Requirements Specification (SRS) document serves as a common language, ensuring everyone from developers to clients has the same understanding of project goals, thus reducing misunderstandings. <br>
+Ensuring User Satisfaction <br>
+By involving end-users and other stakeholders early, requirement analysis guarantees the final product addresses their actual needs. This user-centric approach ensures the software is not just functional but also useful and intuitive, leading to a more successful outcome. <br>
