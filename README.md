@@ -32,3 +32,20 @@ Security: The system must encrypt user passwords and payment information. <br>
 Usability: The booking process should be intuitive and require a maximum of three clicks. <br>
 Reliability: The system must have 99.9% uptime. <br>
 Scalability: The system must be able to handle 1,000 concurrent users without a significant decrease in performance. <br>
+<h2>Use Case Diagrams</h2>  
+A Use Case Diagram is a type of UML diagram that shows a system's functionality from a user's perspective. <br>
+Benefits of Use Case Diagrams <br>
+- Simplifies Communication <br>
+- Defines System Boundaries <br>
+- Identifies Core Functionality <br>
+- Foundation for Requirements <br>
+<h2>Actors</h2>  
+- User  <br>
+- Admin  <br>
+<h2>Use cases</h2>
+Search for Availability <br>
+View Details  <br>
+Make a Booking  <br>
+Cancel a Booking  <br>
+Receive Confirmation  <br>
+<img width="525" height="649" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/745e04a0-15c5-456b-9d2a-dff7ed90bdec" />
