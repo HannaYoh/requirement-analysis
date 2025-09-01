@@ -20,3 +20,15 @@ By involving end-users and other stakeholders early, requirement analysis guaran
 - Requirement Analysis and Modeling: During this stage, collected requirements are examined for completeness, consistency, and feasibility. Any conflicts or ambiguities are resolved. Modeling uses visual aids like flowcharts and use case diagrams to illustrate how the system will work. <br>
 - Requirement Documentation: The formal process of writing down all finalized requirements in a Software Requirements Specification (SRS). This document serves as the official agreement, detailing both functional and non-functional requirements. <br>
 - Requirement Validation: The final step to ensure the documented requirements are correct and meet the customer's needs before development begins. It involves reviews, inspections, and prototypes to confirm the team is building the right product. <br>
+<h2>Types of Requirements</h2>  
+<b>Functional Requirement</b> <br>
+- The system must allow a user to search for available appointments by date and time. <br>
+- The system must allow a user to cancel a booking. <br>
+- The system must send an email confirmation to the user after a booking is made. <br>
+- The system must be able to generate a report of all bookings for a specific day.  <br>
+<b>Nonfunctional Requirement</b> <br>
+Performance: The booking page must load in less than 2 seconds. <br>
+Security: The system must encrypt user passwords and payment information. <br>
+Usability: The booking process should be intuitive and require a maximum of three clicks. <br>
+Reliability: The system must have 99.9% uptime. <br>
+Scalability: The system must be able to handle 1,000 concurrent users without a significant decrease in performance. <br>
